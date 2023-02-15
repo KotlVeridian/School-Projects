@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1676456408 source:c:\users\kve\documents\codeblocks\my32os\palendrom\main.cpp
+	<iostream>
+	<fstream>
+
